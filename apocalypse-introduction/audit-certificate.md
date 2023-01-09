@@ -1,5 +1,7 @@
 # Audit Certificate
 
+## <mark style="color:yellow;">Apocalypse Token Audit Certificate</mark>
+
 Apocalypse Token smart contract includes reward pool functionality that is secured and safe, reward pool smart contract is locked and secured. The Smart Contract analysis reported no compiler error or critical issues.
 
 ![](<../.gitbook/assets/image (93).png>)
