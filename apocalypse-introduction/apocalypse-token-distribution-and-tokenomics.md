@@ -25,3 +25,30 @@ Here's a simple breakdown to make it easier to understand:
 * 5% is added to the reward pool to sustain player rewards
 * A transfer tax of 9% is applied to both buy and sell transactions and transfers between wallets, with the tax hardcoded into the smart contract to never exceed 10%
 * These measures are designed to ensure the long-term sustainability and balance of the reward pool and provide players with a fair and consistent experience within the game
+
+{% hint style="success" %}
+The Apocalypse (APOC) token is programmed to never have a tax rate higher than 10%. This restriction is hardcoded and cannot be changed. Below is the code snippet for reference.
+{% endhint %}
+
+{% code overflow="wrap" lineNumbers="true" %}
+```solidity
+/**
+     * @dev Run internally to set all the fee settings and ensure that total fee is not more than 10%. 
+     */
+    function _setFees(
+        uint256 _liquidityFee,
+        uint256 _buybackFee,
+        uint256 _rewardFee,
+        uint256 _marketingFee,
+        uint256 _feeDenominator
+    ) internal {
+        liquidityFee = _liquidityFee;
+        buybackFee = _buybackFee;
+        rewardFee = _rewardFee;
+        marketingFee = _marketingFee;
+        totalFee = _liquidityFee.add(_buybackFee).add(_rewardFee).add(_marketingFee);
+        feeDenominator = _feeDenominator;
+        require(totalFee < feeDenominator.div(100).mul(10), "Total fee should not be greater than 10%.");
+    }
+```
+{% endcode %}
