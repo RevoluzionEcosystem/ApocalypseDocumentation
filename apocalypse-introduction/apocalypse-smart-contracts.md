@@ -8,6 +8,6 @@ All Revoluzion (including Apocalypse) smart contracts are open source and availa
 Please be cautious and only interact with the smart contracts listed in the provided link. Do not engage with any other smart contracts that are not on the list.
 {% endhint %}
 
-Click the link below to view the list of Revoluzion ecosystem smart contracts.
+Click the link below to view the list of Revoluzion Ecosystem smart contracts.
 
 {% embed url="https://github.com/RevoluzionEcosystem/RevoluzionEcosystem/blob/main/Smart%20Contracts.md" %}
