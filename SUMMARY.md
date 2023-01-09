@@ -1,6 +1,6 @@
 # Table of contents
 
-## APOCALYPSE INTRODUCTION
+## 📒 APOCALYPSE INTRODUCTION
 
 * [Apocalypse](README.md)
 * [Apocalypse Conceptualization](apocalypse-introduction/apocalypse-conceptualization.md)
