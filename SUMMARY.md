@@ -1,12 +1,14 @@
 # Table of contents
 
-## APOCALYPSE TOKEN INFO
+## APOCALYPSE INTRODUCTION
 
-* [Apocalypse Overview](README.md)
-* [Our Story](apocalypse-token-info/our-story.md)
-* [Our Mission](apocalypse-token-info/our-mission.md)
-* [Audit Certificate](apocalypse-token-info/audit-certificate.md)
-* [Tokenomics](apocalypse-token-info/tokenomics.md)
+* [Apocalypse](README.md)
+* [Apocalypse Conceptualization](apocalypse-introduction/apocalypse-conceptualization.md)
+* [Apocalypse Mission](apocalypse-introduction/apocalypse-mission.md)
+* [Apocalypse Expansion](apocalypse-introduction/apocalypse-expansion.md)
+* [Audit Certificate](apocalypse-introduction/audit-certificate.md)
+* [Apocalypse Token Distribution & Tokenomics](apocalypse-introduction/apocalypse-token-distribution-and-tokenomics.md)
+* [Apocalypse Smart Contracts](apocalypse-introduction/apocalypse-smart-contracts.md)
 
 ## APOCALYPSE GAME DOCS
 
