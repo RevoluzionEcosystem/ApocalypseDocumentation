@@ -1,14 +1,18 @@
 # Apocalypse Heroes
 
-Apocalypse would currently consist of two class of characters which is a warrior and a mage. Warriors would require to equip a weapon and a shield before authorized to fight. Mages would require to equip a wand and a shield before authorized to fight as well. More class of heroes will be release in near future!
+## <mark style="color:yellow;">Apocalypse Heroes</mark>
 
+In the game Apocalypse, players have access to two primary classes of characters, the Warrior and the Mage.
 
+Warriors are physically-oriented characters, who specialize in melee combat. They are required to equip a weapon, such as a sword or an axe, and a shield before they are authorized to engage in battle.&#x20;
+
+Mages, on the other hand, are spell-casting characters who specialize in ranged combat. They are required to equip a wand, which serves as their primary tool for casting spells, and a shield before they are authorized to engage in battle.&#x20;
+
+It's important to note that the future update for the game will include more classes of heroes to be added for more variety of gameplay for the players.
 
 ![](<../.gitbook/assets/image (56).png>)
 
 ![](<../.gitbook/assets/image (98).png>)
-
-![](<../.gitbook/assets/image (115).png>)
 
 ## Heroes Class: Mage & Warrior
 
